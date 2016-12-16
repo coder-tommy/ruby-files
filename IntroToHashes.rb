@@ -19,7 +19,7 @@ now make your own menu below, please use the diner_menu variable name
 
 =end
 diner_menu = {
-  dinner: ["Cheeseburger", "Hamburger"]
+  dinner: ["Cheeseburger", "Hamburger"],
   drinks: ["Coke", "Pepsi"]
 }
 
